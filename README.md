@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @sairars
-- 🌱 I’m currently learning HTML/CSS/Javascript and building projects to learn the front-end language
+- 🌱 I’m currently learning HTML/CSS/Javascript and building projects to learn the front-end languages
