@@ -1,7 +1,7 @@
 ### Hi, I'm Saira Rashid <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ## Software Engineer with a passion for learning new skills 
-- 🌱 I’m currently learning Azure Concepts
+- 🌱 I’m currently learning React and Azure Concepts
 - 👩🏻‍💻 I love to code in C# and Sql
 - 🥅 Goal - To learn new things each day❔
 
