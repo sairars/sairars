@@ -2,7 +2,7 @@
 
 ## Software Engineer with a passion for learning new skills 
 - 🌱 I'm currently learning Data Science and python for ML
-- 👩🏻‍💻 I love to code in C# and also some Sql
+- 👩🏻‍💻 I can code in C#, React and also some Sql
 - 🥅 Goal - To learn new things each day
 
 <!-- ❔❔❔❔ means username in below README.md -->
